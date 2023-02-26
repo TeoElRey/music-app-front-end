@@ -1,3 +1,8 @@
+# Music-app-front-end
+This program builds upon the previous code written in the music-app-back-end repository.
+Using react, the JSON data fetched in the previous section was styled and displayed in a Carousel like fashion.
+The project is still not 100% finished.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
